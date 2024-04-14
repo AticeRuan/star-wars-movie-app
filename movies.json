@@ -1,0 +1,73 @@
+{"movies":[
+    {"title" : "Star Wars: Episode I - The Phantom Menace",
+    "episode_number" : "1",
+    "main_characters" : ["Qui-Gon Jinn", "Obi-Wan Kenobi", "Anakin Skywalker", "Padmé Amidala", "Jar Jar Binks", "Mace Windu", "Darth Maul"],
+    "description" : "Two Jedi Knights escape a hostile blockade to find allies and come",
+    "poster": "star_wars_episode_1_poster.png",
+    "hero_image" : "star_wars_episode_1_hero.jpg"},
+
+    {"title" : "Star Wars: Episode II - Attack of the Clones",
+    "episode_number" : "2",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Padmé Amidala", "Yoda", "Count Dooku", "Mace Windu", "Jango Fett"],
+    "description" : "Ten years after initially meeting, Anakin Skywalker shares a forbidden romance with Padmé Amidala, while Obi-Wan Kenobi investigates an assassination attempt on the senator and discovers a secret clone army crafted for the Jedi.",
+    "poster" : "star_wars_episode_2_poster.png",
+    "hero_image" : "star_wars_episode_2_hero.jpg"},
+
+    {"title" : "Star Wars: Episode III - Revenge of the Sith",
+    "episode_number" : "3",
+    "main_characters" : ["Obi-Wan Kenobi", "Anakin Skywalker", "Padmé Amidala", "Yoda", "Darth Sidious", "Mace Windu", "Count Dooku"],
+    "description" : "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.",
+    "poster" : "star_wars_episode_3_poster.png",
+    "hero_image" : "star_wars_episode_3_hero.jpg"},
+
+    {
+        "title" : "Star Wars: Episode IV - A New Hope",
+        "episode_number" : "4",
+        "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca", "Obi-Wan Kenobi", "Grand Moff Tarkin", "Jabba the Hutt"],
+        "description" : "The Imperial Forces, under orders from cruel Darth Vader, hold Princess Leia hostage in their efforts to quell the rebellion against the Galactic Empire. Luke Skywalker and Han Solo, captain of the Millennium Falcon, work together with the companionable droid duo R2-D2 and C-3PO to rescue the beautiful princess, help the Rebel Alliance, and restore freedom and justice to the Galaxy.",
+        "poster" : "star_wars_episode_4_poster.png",
+        "hero_image" : "star_wars_episode_4_hero.jpg"
+      },
+      
+  {
+    "title" : "Star Wars: Episode V - The Empire Strikes Back",
+    "episode_number" : "5",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca", "Lando Calrissian", "Boba Fett"],
+    "description" : "Fleeing the evil Galactic Empire, the Rebels abandon their new base in an assault with the Imperial AT-AT walkers on the ice world of Hoth. Princess Leia, Han Solo, Chewbacca and the droid C-3PO escape in the Millennium Falcon, but are later captured by Darth Vader on Bespin. Meanwhile, Luke Skywalker and the droid R2-D2 follows Obi-Wan Kenobi's posthumous command, and receives Jedi training from Master Yoda on the swamp world of Dagobah. Will Skywalker manage to rescue his friends from the Dark Lord?",
+    "poster" : "star_wars_episode_5_poster.png",
+    "hero_image" : "star_wars_episode_5_hero.jpg"
+  },
+
+
+    {"title" : "Star Wars: Episode VI - Return of the Jedi",
+    "episode_number" : "6",
+    "main_characters" : ["Luke Skywalker", "Han Solo", "Princess Leia Organa", "Darth Vader", "C-3P0", "R2-D2", "Chewbacca", "Emperor Palpatine", "Lando Calrissian", "Boba Fett"],
+    "description" : "Luke Skywalker battles Jabba the Hutt and Darth Vader to save his comrades in the Rebel Alliance and triumph over the Galactic Empire. Han Solo and Princess Leia reaffirm their love, and team with Chewbacca, Lando Calrissian, the Ewoks, and droids C-3PO and R2-D2 to aid in the disruption of the Dark Side, and the defeat of the evil emperor.",
+    "poster" : "star_wars_episode_6_poster.png",
+    "hero_image" : "star_wars_episode_6_hero.jpg"},
+  
+
+{
+    "title" : "Star Wars: Episode VII - The Force Awakens",
+    "episode_number" : "7",
+    "main_characters" : [ "Han Solo","Luke Skywalker","Princess Leia","Kylo Ren","Rey","Finn","BB-8","Poe Dameron","Maz Kanata" ],
+    "description" :"When critical information is placed into a simple droid, both the evil First Order and the heroic Resistance go searching for it. Then something neither of them planned for happens: Rey, a scavenger from the planet Jakku finds the droid and keeps it as her own. Finn, an ex-stormtrooper who hopes to leave his past behind him, crosses paths with her and breaks the news of what exactly the importance of the droid is. Next thing either of them know is that they are on the run in order to withhold the droid from the First Order. They meet a pair of old buddies and after a few skirmishes between them and the determined First Order, the droid is brought to the Resistance base. There, multiple plans are hatched against the First Order while the secret information on the droid is slowly and surely working itself out...",
+    "poster" : "star_wars_episode_7_poster.jpg",
+    "hero_image" : "star_wars_episode_7_hero.jpg"
+},
+{
+    "title" : "Star Wars: Episode VIII - The Last Jedi",
+    "episode_number" : "8",
+    "main_characters" : ["Luke Skywalker / Dobbu Scay","Leia Organa","Kylo Ren","Rey","Finn","Poe Dameron","Snoke","Maz Kanata","General Hux","C-3PO" ],
+    "description" :"Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+    "poster" : "star_wars_episode_8_poster.jpg",
+    "hero_image" : "star_wars_episode_8_hero.jpg"
+},
+{
+    "title" : "Rogue One: A Star Wars Story",
+    "episode_number" : "9",
+    "main_characters" :["Jyn Erso","Cassian Andor","K-2SO","Chirrut Îmwe","Baze Malbus", "Orson Krennic","Governor Tarkin","Saw Gerrera"],
+    "description" : "All looks lost for the Rebellion against the Empire as they learn of the existence of a new super weapon, the Death Star. Once a possible weakness in its construction is uncovered, the Rebel Alliance must set out on a desperate mission to steal the plans for the Death Star. The future of the entire galaxy now rests upon its success.",
+    "poster" : "rogue_one_a_star_wars_story_poster.jpg",
+    "hero_image" : "rogue-one_hero.jpg"
+}]}

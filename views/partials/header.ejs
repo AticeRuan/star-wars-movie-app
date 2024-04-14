@@ -1,0 +1,18 @@
+<nav class="navbar fixed-top ml-auto end-0 position-absolute">
+    <div class="container-fluid">
+        <ul class="nav navbar-nav  flex-row ">
+            <li class="nav-item">
+                <a href="/" >Home</a>
+            </li>
+            <li class="dropdown nav-item">
+                <a href="#" class=" dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-expanded="false" >Movies 
+                </a>           
+                <ul class="dropdown-menu">
+                    <% movies.map((movie)=> { %>
+                    <li><a href="/star_wars_episode/<%= movie.episode_number %>" class="episode_link dropdown-item"><%= movie.title %></a></li>
+                    <% }); %>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</nav>
